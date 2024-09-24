@@ -1,82 +1,66 @@
 # Hello, I'm Lakhveer Singh Rajput! 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack for creating robust and scalable web applications. I thrive on learning new technologies and crafting efficient, clean code. Let's connect and build something amazing together!
+Welcome to my GitHub profile! I’m a **Full Stack Developer** passionate about building high-quality web applications. I thrive on learning new technologies and writing clean, scalable code. Let’s connect and build something amazing together! 🚀
 
 ---
 
 ### 🚀 About Me
 
-I'm a tech enthusiast who loves diving into the world of web development. With a strong foundation in **Ruby on Rails, Python, ReactJS, Docker, and GIT**, I am always eager to expand my skill set and take on new challenges. I believe in continuous learning and sharing knowledge with the community.
+I'm a tech enthusiast with a strong foundation in **Ruby on Rails**, **Python**, **ReactJS**, **Docker**, and **GIT**. I love sharing knowledge, so I regularly publish blogs on **Medium** and my **personal website**. My blogs cover diverse topics like **Ruby on Rails in Generative AI**, **CORS in Rails**, **SEO techniques**, and much more!
 
-I regularly write blogs on Medium and my personal website, where I explore in-depth topics like the power of **Ruby on Rails in generative AI**, the latest **Rails 7.2 updates**, **CORS in Rails**, **SEO implementation**, and more. These blogs not only help me delve deeper into these subjects but also allow me to contribute to the developer community.
+**Continuous learning** is at the heart of my development philosophy, and I believe in contributing to the developer community by sharing insights and solutions.
 
 ---
 
-### 🔧 Technologies & Tools
+### 💻 Technologies & Tools
 
-- **Languages:** 
-  - Ruby on Rails
-  - Python
-  - JavaScript
+#### **Languages:**
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- **Frameworks:** 
-  - ReactJS
-  - NextJS
-  - VueJS
-  - Rails
-  - Express
+#### **Frameworks:**
+![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
-- **Tools & Platforms:**
-  - Docker
-  - Kubernetes
-  - GIT
-  - JIRA
-  - CircleCI
-  - Heroku
-  - AWS
-  - Keybase
+#### **Tools & Platforms:**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-- **Databases:**
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-  - Redis
+#### **Databases:**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- **Other Skills:**
-  - Machine Learning
-  - Generative AI
-  - SEO
-  - Active Admin
-  - Redis-Sidekiq
-  - Capistrano
-  - CI/CD Pipelines
+#### **Other Skills:**
+- **Machine Learning**
+- **Generative AI**
+- **CI/CD Pipelines**
+- **SEO Optimization**
+- **Active Admin**
+- **Redis-Sidekiq**
+- **Capistrano**
 
 ---
 
 ### 🌟 Personal Achievements
 
-- **Ruby Gems Developer:** Created personal gems for Active Admin Access Control, Response Faker, and Social Media Posting. Recently, I've been working on enhancing a gem that dynamically generates methods and classes based on JSON files, with real-time error handling.
-- **Blogger:** Regularly publish insightful articles on Ruby on Rails and other technologies on [Medium](https://medium.com/@rajputlakhveer) and [Website](https://rajputlakhveer.github.io/), keeping the community updated with key concepts and best practices.
+- **Ruby Gems Developer:** Created unique gems like Active Admin Access Control and Response Faker. Currently working on a gem for dynamically generating methods and classes from JSON files with real-time error handling.
+- **Blogger:** I regularly share insights on [Medium](https://medium.com/@rajputlakhveer) and [my website](https://rajputlakhveer.github.io/) about Ruby on Rails, Python, ReactJS, and cutting-edge technologies.
 - **Open Source Contributor:** Passionate about contributing to open-source projects, with active participation in the Rails community.
 
 ---
 
-### 📚 Education
+### 🎓 Education
 
-**Master of Computer Applications (MCA)**
-- IPS Academy Indore
-- CGPA: 8.3
+**Master of Computer Applications (MCA)**  
+*IPS Academy Indore*  
+**CGPA:** 8.3
 
 ---
 
 ### 🌍 Languages
 
-- **Hindi:** Full Professional Proficiency
-- **English:** Professional Working Proficiency
+- **Hindi:** Full Professional Proficiency  
+- **English:** Professional Working Proficiency  
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Connect!
 
 - **Email:** [rajputlakhveer@gmail.com](mailto:rajputlakhveer@gmail.com)
 - **LinkedIn:** [Lakhveer Singh Rajput](https://linkedin.com/in/lakhveer-singh-rajput-8527b5190)
@@ -86,16 +70,8 @@ I regularly write blogs on Medium and my personal website, where I explore in-de
 
 ---
 
-### 🌟 Interests
-
-- **Programming:** Ruby Gems, Python, JavaScript, Generative AI
-- **Continuous Learning:** Always exploring new technologies and frameworks.
-- **Cloud Services:** AWS, Kubernetes
-- **Reading:** Enjoy reading self-help books and technical blogs.
-- **Writing:** Passionate about writing blogs to share my knowledge with the community.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajputlakhveer&show_icons=true&theme=radical&hide_border=true" alt="Lakhveer's GitHub Stats" height="180px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=rajputlakhveer&theme=radical&hide_border=true" alt="Lakhveer's GitHub Streak Stats" height="180px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputlakhveer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p>
 
 ---
 
-Thank you for stopping by! Let's collaborate and create something extraordinary. Feel free to explore my repositories and reach out to me on [LinkedIn](https://linkedin.com/in/lakhveer-singh-rajput-8527b5190) or [GitHub](https://github.com/rajputlakhveer).
-
-![Lakhveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajputlakhveer&show_icons=true&theme=radical)
+**Thank you for visiting my profile!** Let's collaborate and create something extraordinary! ✨
